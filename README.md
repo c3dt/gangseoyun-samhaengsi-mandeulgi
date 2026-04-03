@@ -1,4 +1,4 @@
-#```
+```
 git clone https://github.com/c3dt/gangseoyun-samhaengsi-mandeulgi.git
 cd gangseoyun-samhaengsi-mandeulgi
 python efn.py
